@@ -8,6 +8,5 @@ public class Main {
         String text = "Test";
         double rational = 4.24;
         char Character = 'A';
-        
     }
 }
